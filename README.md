@@ -6,7 +6,9 @@ This repository showcases my practical experience in data analysis and business 
 
 Individual project pages are available below:
 
-*Project pages will be added as each project is documented.*
+1. [Sales Performance and Profitability Analysis](https://github.com/chimelumivy/Microsoft-Power-BI-Projects/tree/main/SALES%20PERFORMANCE%20AND%20PROFITABILITY%20ANALYSIS)
+
+2. [GHRM Logistics Operations and Performance Analysis](https://github.com/chimelumivy/Microsoft-Power-BI-Projects/tree/main/GHRM%20LOGISTICS%20OPERATIONS%20AND%20PERFORMANCE%20ANALYSIS)
 
 ## Tools and Technologies
 
