@@ -4,6 +4,12 @@
 
 ![Sales Performance and Profitability Analysis Dashboard](Sales-Performance-and-Profitability-Analysis-Dashboard.png)
 
+## Project Files
+
+View Dashboard Online
+
+Download Power BI File
+
 ## Project Overview
 
 This project involves the development of an interactive Power BI dashboard to analyse sales performance, revenue, profitability, customer distribution, and product trends.
