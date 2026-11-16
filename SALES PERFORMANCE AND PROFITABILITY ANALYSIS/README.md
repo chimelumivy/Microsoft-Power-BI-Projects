@@ -6,10 +6,10 @@
 
 ## Project Files
 
-View Dashboard Online
+Explore the interactive Power BI report online or download the file to view and interact with the analysis.
 
-Download Power BI File
-
+- [View Power BI File Online](YOUR_ONEDRIVE_LINK)
+- [Download Power BI File](YOUR_GITHUB_DOWNLOAD_LINK)
 ## Project Overview
 
 This project involves the development of an interactive Power BI dashboard to analyse sales performance, revenue, profitability, customer distribution, and product trends.
