@@ -3,16 +3,20 @@
 ## Dashboard Preview
 
 ### 1. Logistics Operations Overview
-
 ![Logistics Operations Overview](Logistics-Operations-Overview.png)
 
 ### 2. Fleet Performance & Cost Analysis
-
 ![Fleet Performance and Cost Analysis](Fleet-Performance-and-Cost-Analysis.png)
 
 ### 3. Driver Performance & Safety
-
 ![Driver Performance and Safety](Driver-Performance-and-Safety.png)
+
+## Project Files
+
+Explore the interactive Power BI report online or download the file to view and interact with the analysis.
+
+- [View Power BI File Online](https://1drv.ms/u/c/df7f0bbb414726f8/IQDyoHAD3J-hSIGIxQNp4DDGARzz4Z02rbwrjx59yLGYnBM?e=ubac3s)
+- [Download Power BI File](https://github.com/chimelumivy/Microsoft-Power-BI-Projects/blob/main/GHRM%20LOGISTICS%20OPERATIONS%20AND%20PERFORMANCE%20ANALYSIS/GHRM-Logistics-Operations-and-Performancr-Analysis.pbix?raw=1)
 
 ## Project Overview
 
@@ -57,7 +61,7 @@ Working with 15 related data tables, I transformed and modelled the data to deve
 ## Key Insights
 
 - The dashboard recorded **85,000 deliveries**, generating **298.62M in gross revenue** and **158.55M in total profit**.
-- Refrigerated loads contributed 150.13M (50.27%) of gross revenue, marginally exceeding Dry Van loads at 148.50M (49.73%).
+- Refrigerated loads contributed 150.13M (50.27%) of gross revenue, marginally exceeding Dry Van at 148.50M (49.73%).
 - Fuel purchases represented 91.94% of total operating costs, making fuel expenditure a major cost component.
 - Annual profit increased from 46.7M in 2022 to 51.0M in 2024.
 - The fleet dashboard recorded 92 active trucks, with total fuel costs of 95.59M and total maintenance costs of 5.73M.
