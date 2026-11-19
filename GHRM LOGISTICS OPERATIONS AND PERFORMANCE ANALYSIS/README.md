@@ -1,5 +1,11 @@
 # GHRM Logistics Operations and Performance Analysis
 
+## Project Overview
+
+This project is a logistics data analytics case study developed using Power BI to explore operational performance, fleet efficiency, maintenance costs, delivery performance, and driver safety.
+
+Working with 15 related data tables, I transformed and modelled the data to develop an interactive, multi-page dashboard that provides insights into logistics operations and supports data-driven decision-making.
+
 ## Dashboard Preview
 
 ### 1. Logistics Operations Overview
@@ -18,11 +24,6 @@ Explore the interactive Power BI report online or download the file to view and 
 - [View Power BI File Online](https://1drv.ms/u/c/df7f0bbb414726f8/IQDyoHAD3J-hSIGIxQNp4DDGARzz4Z02rbwrjx59yLGYnBM?e=ubac3s)
 - [Download Power BI File](https://github.com/chimelumivy/Microsoft-Power-BI-Projects/blob/main/GHRM%20LOGISTICS%20OPERATIONS%20AND%20PERFORMANCE%20ANALYSIS/GHRM-Logistics-Operations-and-Performancr-Analysis.pbix?raw=1)
 
-## Project Overview
-
-This project is a logistics data analytics case study developed using Power BI to explore operational performance, fleet efficiency, maintenance costs, delivery performance, and driver safety.
-
-Working with 15 related data tables, I transformed and modelled the data to develop an interactive, multi-page dashboard that provides insights into logistics operations and supports data-driven decision-making.
 
 ## Project Objectives
 
